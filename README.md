@@ -1,16 +1,34 @@
-## Hi there 👋
+# Pedro Henrique Andrade
 
-<!--
-**peaga16/peaga16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer & UI/UX Designer
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas no IFPE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Especializado em desenvolvimento web full-stack, interfaces modernas e experiências digitais.
+
+## Stack
+
+Frontend:
+HTML • CSS • JavaScript • React • Next.js • TailwindCSS
+
+Backend:
+Python • PHP • Java • SQL • MySQL • APIs • Prisma
+
+Design:
+Figma • Photoshop • Illustrator • After Effects
+
+## Projetos
+
+🔹 Implantus Pesqueira  
+Sistema web para clínica odontológica
+
+🔹 Plataforma do Sono  
+Plataforma para atletas infantis
+
+🔹 Portfolio Web  
+Website interativo com animações e filtros
+
+## Contato
+
+LinkedIn: seu linkedin  
+Email: seu email
