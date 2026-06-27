@@ -1,34 +1,131 @@
-# Pedro Henrique Andrade
+<h1 align="center">Pedro Henrique Andrade</h1>
 
-Software Developer & UI/UX Designer
+<h3 align="center">
+Software Developer • UI/UX Designer • ADS Student
+</h3>
 
-Estudante de Análise e Desenvolvimento de Sistemas no IFPE.
+<p align="center">
+Building modern digital experiences with code + design.
+</p>
 
-Especializado em desenvolvimento web full-stack, interfaces modernas e experiências digitais.
+---
 
-## Stack
+## About Me
 
-Frontend:
-HTML • CSS • JavaScript • React • Next.js • TailwindCSS
+💻 Full Stack Developer focused on modern web applications  
 
-Backend:
-Python • PHP • Java • SQL • MySQL • APIs • Prisma
+🎨 UI/UX Designer with experience creating strategic digital products  
 
-Design:
-Figma • Photoshop • Illustrator • After Effects
+🚀 Building scalable, responsive and high-performance interfaces  
 
-## Projetos
+🎓 ADS Student at IFPE (Instituto Federal de Pernambuco)  
 
-🔹 Implantus Pesqueira  
-Sistema web para clínica odontológica
+⚡ Passionate about technology, design and solving real problems  
 
-🔹 Plataforma do Sono  
-Plataforma para atletas infantis
+---
 
-🔹 Portfolio Web  
-Website interativo com animações e filtros
+## Tech Stack
 
-## Contato
+### Frontend
 
-LinkedIn: seu linkedin  
-Email: seu email
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,java,nodejs,mysql" />
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### Implantus Pesqueira
+
+Web platform for dental clinic management.
+
+• Full Stack Development  
+• Responsive UI/UX  
+• Performance optimization  
+
+🔗 https://www.implantuspesqueira.com.br
+
+---
+
+### Sleep Platform
+
+Sleep management platform for young athletes.
+
+• Next.js  
+• TailwindCSS  
+• Prisma ORM  
+• Full Stack Architecture  
+
+🔗 https://plataforma-sono.vercel.app/
+
+---
+
+### Interactive Portfolio
+
+Personal interactive portfolio website.
+
+• HTML  
+• CSS Architecture  
+• Advanced JavaScript  
+• Responsive Design  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=peaga16&show_icons=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peaga16&layout=compact" />
+
+</p>
+
+---
+
+## Currently Learning
+
+• Advanced React  
+
+• Software Architecture  
+
+• Backend Development  
+
+• Cloud Computing  
+
+• Data Structures  
+
+---
+
+## Contact
+
+📧 contatopedrohaa@gmail.com  
+
+💼 LinkedIn  
+
+🌐 Portfolio Website  
+
+---
+
+<p align="center">
+Always building. Always improving.
+</p>
